@@ -1,5 +1,7 @@
 # Customer Churn Analysis
 
+![Churn by Contract Type](images/churn_by_contract.png)
+
 This project explores customer churn patterns in the telecom industry using exploratory data analysis (EDA). The goal is to uncover key insights into which customers are more likely to leave and what factors influence churn, helping inform strategies to improve retention.
 
 ---
