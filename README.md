@@ -37,6 +37,6 @@ This project explores customer churn patterns in the telecom industry using expl
 
 ## Notebook
 
-Check out the full analysis in [`Customer Churn Analysis.ipynb`](Customer%20Churn%20EDA.ipynb).
+Check out the full analysis in [`Customer Churn Analysis.ipynb`]([Customer%20Churn%20EDA.ipynb](https://github.com/PrachiShandilya/customer-churn-analysis/blob/main/Customer%20Churn%20EDA.ipynb)).
 
 ---
