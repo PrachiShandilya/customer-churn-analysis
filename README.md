@@ -9,7 +9,7 @@ This project explores customer churn patterns in the telecom industry using expl
 ## Objectives
 
 - Explore **customer churn patterns** using visualizations  
-- Identify **key features** related to churn (e.g., contracts, services, payment methods)  
+- Identify **key features** related to churn (e.g., contracts, tenure, payment methods)  
 - Gain insights to help **reduce churn** and improve **customer retention**
 
 ---
@@ -30,9 +30,12 @@ This project explores customer churn patterns in the telecom industry using expl
 ## Key Findings
 
 - Customers with **month-to-month contracts** and those paying via **electronic checks** have significantly **higher churn**.
-- Customers using **bundled services** such as OnlineSecurity or TechSupport are **less likely to churn**.
-- Promoting **long-term contracts** and **value-added services** may help reduce churn.
+- Customers with **shorter tenure** are more likely to churn, suggesting **early-stage dissatisfaction** or weak engagement.
+- **Senior citizens** have a higher churn rate compared to non-senior customers, highlighting a **vulnerable customer segment**.
+- Overall, promoting **long-term contracts**, improving **early customer experience**, and encouraging **automated payments** can help reduce churn.
 
+
+----------
 ---
 
 ## Notebook
