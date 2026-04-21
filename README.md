@@ -34,8 +34,6 @@ This project explores customer churn patterns in the telecom industry using expl
 - **Senior citizens** have a higher churn rate compared to non-senior customers, highlighting a **vulnerable customer segment**.
 - Overall, promoting **long-term contracts**, improving **early customer experience**, and encouraging **automated payments** can help reduce churn.
 
-
-----------
 ---
 
 ## Notebook
